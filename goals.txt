@@ -1,0 +1,6 @@
+Goals di Tahun 2024 :
+1. Membahagiakan Orangtua
+2. Memahami Javascript Dasar
+3. Memahami HTML
+4. Memahami CSS
+5. Memahami Database 
