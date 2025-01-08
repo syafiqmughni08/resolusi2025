@@ -5,3 +5,4 @@ Goals di Tahun 2024 :
 4. Memahami CSS
 5. Memahami Database 
 6. Menjadi Lebih Baik
+
